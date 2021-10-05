@@ -10,7 +10,7 @@
 
 <div class="row-blog"> 
   <div class="column-blog">
-    <img src="../assets/drawings/se3.jpg" style="width:100%">
+    <img src="/drawings/se3.jpg" style="width:100%">
     <img src="../assets/drawings/strange0.png" style="width:100%">
     <img src="../assets/drawing/girl2.png" style="width:100%">
     <img src="../assets/drawings/women.jpg" style="width:100%">

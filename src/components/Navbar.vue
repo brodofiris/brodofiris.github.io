@@ -4,7 +4,7 @@
         <router-link class="link" to="/">Home</router-link>
         <router-link class="link" to="/blog">Drawings</router-link>
         <router-link class="link" to="/contact">Contact</router-link>
-        <a class="link" target="_blank" href="https://docs.google.com/document/d/1_EdloxEkJUQaQIznxgamEAkPuJfOl1CgyldAnFcC_d0/edit?usp=sharing" download>CV</a>
+        <a class="link" target="_blank" href="https://drive.google.com/file/d/17aTXXjAtjpDXBcTaCsHIpDXIEjp8G0Mt/view?usp=sharing" download>CV</a>
     </div>
 </nav>
 </template>
